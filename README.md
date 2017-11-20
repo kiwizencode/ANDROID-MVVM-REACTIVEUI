@@ -1,5 +1,6 @@
 # Xamarin Android - MVVM - ReactiveUI
-This is write-up about my journey how I completed Xamarin Android assignment which is implemented in MVVM pattern using ReactiveUI.
+This is write-up about my journey how I completed my Xamarin Android assignment which is implemented in MVVM pattern using ReactiveUI.
+It will be rewitten in tutorial style where someone could follows and achieved the same result as I did.
 
 The struture of the write-up will be as follows:
 
